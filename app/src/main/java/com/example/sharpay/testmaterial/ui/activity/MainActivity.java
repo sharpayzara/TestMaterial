@@ -1,10 +1,9 @@
-package com.example.sharpay.testmaterial;
+package com.example.sharpay.testmaterial.ui.activity;
 
-import android.support.v4.app.Fragment;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.example.sharpay.testmaterial.fragment.MainFragment;
+import com.example.sharpay.testmaterial.R;
+import com.example.sharpay.testmaterial.ui.fragment.MainFragment;
 import com.example.sharpay.testmaterial.rxbus.RxBus;
 import com.trello.rxlifecycle.components.support.RxFragmentActivity;
 

@@ -1,13 +1,11 @@
-package com.example.sharpay.testmaterial.fragment;
+package com.example.sharpay.testmaterial.ui.fragment;
 
-import android.content.Context;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.design.widget.TextInputLayout;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.view.inputmethod.InputMethodManager;
 import android.widget.Toast;
 
 import com.example.sharpay.testmaterial.R;

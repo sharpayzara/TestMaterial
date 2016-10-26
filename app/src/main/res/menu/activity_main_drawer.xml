@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_game"
+            android:icon="@mipmap/nav_games_icon"
+            android:title="游戏"/>
+        <item
+            android:id="@+id/nav_humanity"
+            android:title="视野"
+            android:icon="@mipmap/nav_humanity_icon"
+            />
+    </group>
+
+    <item android:title="@string/app_name">
+        <menu>
+            <item
+                android:id="@+id/nav_微电影"
+                android:icon="@mipmap/nav_microfilm_icon"
+                android:title="微电影"/>
+            <item
+                android:id="@+id/nav_news"
+                android:icon="@mipmap/nav_news_icon"
+                android:title="新闻"/>
+        </menu>
+    </item>
+
+
+</menu>
